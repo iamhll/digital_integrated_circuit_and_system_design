@@ -39,3 +39,8 @@
 .. image:: 幻灯片26.JPG
 .. image:: 幻灯片27.JPG
 .. image:: 幻灯片28.JPG
+.. image:: 幻灯片29.JPG
+.. image:: 幻灯片30.JPG
+.. image:: 幻灯片31.JPG
+.. image:: 幻灯片32.JPG
+.. image:: 幻灯片33.JPG
