@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-11-04
+   ..  Created        : 2023-11-11
    ..  Description    : description about 第09讲 - 领域专用集成电路设计(视频编码) - 视频编码器的构成
    ..
 .. -----------------------------------------------------------------------------
