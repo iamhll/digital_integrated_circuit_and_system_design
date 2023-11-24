@@ -3,12 +3,12 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-14
-   ..  Description    : description about 第07讲 - 专题演讲
+   ..  Created        : 2023-11-04
+   ..  Description    : description about 第08讲 - 专题演讲
    ..
 .. -----------------------------------------------------------------------------
 
-第07讲 - 专题演讲
+第08讲 - 专题演讲
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG

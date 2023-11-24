@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-11-19
+   ..  Created        : 2023-12-02
    ..  Description    : description about 第12讲 - 课程设计
    ..
 .. -----------------------------------------------------------------------------

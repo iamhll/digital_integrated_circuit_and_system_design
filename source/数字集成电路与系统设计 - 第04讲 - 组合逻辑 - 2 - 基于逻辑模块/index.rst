@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-09-23
+   ..  Created        : 2023-10-07
    ..  Description    : description about 第04讲 - 组合逻辑 - 基于逻辑模块
    ..
 .. -----------------------------------------------------------------------------

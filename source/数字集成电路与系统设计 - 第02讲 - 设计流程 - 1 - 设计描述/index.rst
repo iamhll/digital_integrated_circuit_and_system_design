@@ -4,7 +4,7 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2023-09-23
-   ..  Description    : description about 第05讲 - 设计流程 - 设计描述
+   ..  Description    : description about 第02讲 - 设计流程 - 设计描述
    ..
 .. -----------------------------------------------------------------------------
 

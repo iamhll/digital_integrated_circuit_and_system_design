@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-09-23
+   ..  Created        : 2023-09-30
    ..  Description    : description about 第03讲 - 设计建模 - 语法要素
    ..
 .. -----------------------------------------------------------------------------

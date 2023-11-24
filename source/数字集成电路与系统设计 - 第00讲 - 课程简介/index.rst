@@ -4,7 +4,7 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2023-09-16
-   ..  Description    : description about 第00讲 - 基本概念（现在）
+   ..  Description    : description about 第00讲 - 课程简介
    ..
 .. -----------------------------------------------------------------------------
 
