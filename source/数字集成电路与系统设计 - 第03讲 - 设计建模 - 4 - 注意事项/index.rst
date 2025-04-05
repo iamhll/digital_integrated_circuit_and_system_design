@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-09-30
+   ..  Created        : 2025-04-05
    ..  Description    : description about 第03讲 - 设计建模 - 注意事项
    ..
 .. -----------------------------------------------------------------------------
@@ -26,5 +26,3 @@
 .. image:: 幻灯片13.JPG
 .. image:: 幻灯片14.JPG
 .. image:: 幻灯片15.JPG
-.. image:: 幻灯片16.JPG
-.. image:: 幻灯片17.JPG

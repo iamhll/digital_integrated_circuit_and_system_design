@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-10-21
+   ..  Created        : 2025-04-05
    ..  Description    : description about 第06讲 - 进入时序逻辑之前的讨论 - 复位
    ..
 .. -----------------------------------------------------------------------------

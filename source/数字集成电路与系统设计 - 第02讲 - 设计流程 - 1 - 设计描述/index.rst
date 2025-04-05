@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-09-23
+   ..  Created        : 2025-04-05
    ..  Description    : description about 第02讲 - 设计流程 - 设计描述
    ..
 .. -----------------------------------------------------------------------------
@@ -12,7 +12,13 @@
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
+
+导入
+........................................
 .. image:: 幻灯片2.JPG
+
+设计描述(总)
+........................................
 .. image:: 幻灯片3.JPG
 .. image:: 幻灯片4.JPG
 .. image:: 幻灯片5.JPG
@@ -21,12 +27,18 @@
 ........................................
 .. image:: 幻灯片6.JPG
 .. image:: 幻灯片7.JPG
+
+https://developer.arm.com/Processors/Cortex-M3#Technical-Specifications
+
 .. image:: 幻灯片8.JPG
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
 .. image:: 幻灯片11.JPG
 .. image:: 幻灯片12.JPG
 .. image:: 幻灯片13.JPG
+
+https://developer.arm.com/Tools%20and%20Software/Arm%20Virtual%20Hardware
+
 .. image:: 幻灯片14.JPG
 .. image:: 幻灯片15.JPG
 .. image:: 幻灯片16.JPG
