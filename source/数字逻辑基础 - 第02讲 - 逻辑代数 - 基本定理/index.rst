@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-09-16
+   ..  Created        : 2025-09-21
    ..  Description    : description about 第02讲 - 逻辑代数- 基本定理
    ..
 .. -----------------------------------------------------------------------------

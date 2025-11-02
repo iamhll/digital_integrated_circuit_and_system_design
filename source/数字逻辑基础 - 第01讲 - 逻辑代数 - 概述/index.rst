@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-09-16
+   ..  Created        : 2025-09-21
    ..  Description    : description about 第01讲 - 逻辑代数 - 概述
    ..
 .. -----------------------------------------------------------------------------

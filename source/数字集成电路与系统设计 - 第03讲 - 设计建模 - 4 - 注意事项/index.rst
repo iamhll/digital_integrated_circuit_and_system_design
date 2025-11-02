@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-04-05
+   ..  Created        : 2025-09-21
    ..  Description    : description about 第03讲 - 设计建模 - 注意事项
    ..
 .. -----------------------------------------------------------------------------
