@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-04-05
+   ..  Created        : 2025-09-21
    ..  Description    : description about 第06讲 - 时序逻辑 - 设计实践
    ..
 .. -----------------------------------------------------------------------------
