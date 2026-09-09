@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'digital_integrated_circuit_and_system_design'
-copyright = '2023, llhuang'
+copyright = '2026, llhuang'
 author = 'llhuang'
 
 
