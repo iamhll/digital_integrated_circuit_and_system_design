@@ -4,58 +4,42 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2026-09-19
-   ..  Description    : description about 第00讲 - 课程简介
+   ..  Description    : description about 第02讲 - 设计流程 - 设计方法
    ..
 .. -----------------------------------------------------------------------------
 
-第00讲 - 课程简介
+第02讲 - 设计流程 - 设计方法
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
 
-学习意义
+导入
 ........................................
 .. image:: 幻灯片2.JPG
+
+自顶向下与自底向上
+........................................
 .. image:: 幻灯片3.JPG
-
-https://news.cctv.cn/2026/09/09/ARTIEHF9BTXFefPwpGbWsAna260909.shtml
-
 .. image:: 幻灯片4.JPG
 .. image:: 幻灯片5.JPG
 .. image:: 幻灯片6.JPG
+
+正向设计与反向设计
+........................................
 .. image:: 幻灯片7.JPG
-
-https://www.hisilicon.com/cn/products/Kirin/Kirin-flagship-chips/Kirin-9000
-
 .. image:: 幻灯片8.JPG
 .. image:: 幻灯片9.JPG
-
-https://report.iresearch.cn/report_pdf.aspx?id=4055
-
 .. image:: 幻灯片10.JPG
-
-课程内容
-........................................
-
 .. image:: 幻灯片11.JPG
 .. image:: 幻灯片12.JPG
+
+基于平台
+........................................
 .. image:: 幻灯片13.JPG
 .. image:: 幻灯片14.JPG
-
-授课形式
-........................................
-
 .. image:: 幻灯片15.JPG
-
-参考资料
-........................................
-
 .. image:: 幻灯片16.JPG
-
-https://digital-integrated-circuit-and-system-design.readthedocs.io/en/latest/
-
-课前调研
-........................................
-
 .. image:: 幻灯片17.JPG
 .. image:: 幻灯片18.JPG
+.. image:: 幻灯片19.JPG
+.. image:: 幻灯片20.JPG
