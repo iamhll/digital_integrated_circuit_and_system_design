@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-09-21
+   ..  Created        : 2026-09-19
    ..  Description    : description about 补充C.2 - Booth乘法器
    ..
 .. -----------------------------------------------------------------------------
